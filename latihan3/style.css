@@ -1,0 +1,39 @@
+h1{
+    color: orange; /*ini untuk memberi warna*/
+    font-family: 'Segoe UI';    
+}
+.kotakbiru{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: #0288d1;
+    float: left;
+}
+.kotakpink{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #666666;
+    margin: 10px;
+    background: #f8bbd0;
+    float: left;
+}
+.kotakungu{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: #9d70a7;
+    float: left;
+}.kotakorange{
+    padding: 50px;
+    width: 100px;
+    height: 50px;
+    color: #fff;
+    margin: 10px;
+    background: orange;
+    float: left;
+}
